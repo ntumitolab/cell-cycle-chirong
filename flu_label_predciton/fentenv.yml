@@ -1,0 +1,18 @@
+name: fnet
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - jupyter=1.0.0=py37_7
+  - pandas=1.1.3=py37ha925a31_0
+  - pip=20.2.4=py37haa95532_0
+  - python=3.7.9=h60c2a47_0
+  - pytorch=1.6.0=py3.7_cuda102_cudnn7_0
+  - torchvision=0.7.0=py37_cu102
+  - wheel=0.35.1=pyhd3eb1b0_0
+  - pip:
+    - imageio==2.9.0
+    - scipy==1.5.4
+    - tifffile==0.15.1
+    - tqdm==4.54.0
+prefix: C:\ProgramData\Anaconda3\envs\fnet
