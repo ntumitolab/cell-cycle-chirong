@@ -1,7 +1,7 @@
 # Cell cycle phases classification
 
 ##
-Download data from the link: [data](https://gntuedutw-my.sharepoint.com/:f:/g/personal/r08945048_g_ntu_edu_tw/ElVtm1i2uClJq6TuCUpQDL0BvstDKEiIliAcd66rEzGh6w?e=z5FoXQ).
+Download data from the link: https://github.com/ntumitolab/cell-cycle-chirong/releases/tag/publication
 
 ## System requirement and enviroment settings
 A  graphics card with at least 6GB of ram.
