@@ -50,7 +50,7 @@ jupyter notebook
 - Open SVM.ipynb.
 - Modify the paths to the folders.
 - Modify hyperparameters.
-- Start trsining.
+- Start training.
 
 ## Calssify cell cylce phases by a trained SVM model.
 - Analyze mitochondria
